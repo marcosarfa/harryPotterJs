@@ -1,0 +1,25 @@
+#foto{
+    object-fit: cover;
+}
+
+body{
+    background: url(https://www.hogwartslegacy.com/images/share.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+#logo{
+    width: 10vw;
+    object-fit: contain;
+    border-radius: 100%;
+}
+
+#header{
+    background: url(https://p4.wallpaperbetter.com/wallpaper/247/1024/1021/harry-potter-7-deathly-hallows-wallpaper-preview.jpg);
+    background-size: cover;
+    background-position: 0rem -7rem;
+}
+
+#baseLogo{
+    width: 10vw;
+}
